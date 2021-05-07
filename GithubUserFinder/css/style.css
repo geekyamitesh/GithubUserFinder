@@ -4,12 +4,17 @@
   font-family: "Roboto";
 }
 
-body {
-  background-color: #eee;
-  background: radial-gradient(circle, #939292 0%, rgb(255, 255, 255) 100%);
-}
+  body {
+    background-color: #eee;
+    background: radial-gradient(circle, #939292 0%, rgb(255, 255, 255) 100%);
+  }
+  
+ 
 
-.container {
+
+
+  
+  .container {
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -26,8 +31,10 @@ body {
           flex-direction: column;
   margin-top: 100px;
 }
+ 
 
-.container .row {
+
+  .container .row {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -37,7 +44,21 @@ body {
   width: 850px;
   -webkit-box-shadow: 5px 42px 48px -34px rgba(17, 16, 16, 0.75);
           box-shadow: 5px 42px 48px -34px rgba(0, 0, 0, 0.75);
+
+          
+
 }
+ 
+
+@media only screen and (max-width: 600px) {
+   .row {
+     flex-direction: column;
+  }
+}
+
+
+
+
 
 .container .row .user_info {
   width: 30%;
