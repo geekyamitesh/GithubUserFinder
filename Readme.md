@@ -1,5 +1,4 @@
-
-    ![header image](https://github.com/geekyamitesh/GithubUserFinder/blob/main/GithubUserFinder/images/githubfinder.jpeg)
+![](https://github.com/geekyamitesh/GithubUserFinder/blob/main/GithubUserFinder/images/githubfinder.jpeg)
   
 
 # [GithubUserFinder](https://github.com/geekyamitesh/GithubUserFinder) 🔥
