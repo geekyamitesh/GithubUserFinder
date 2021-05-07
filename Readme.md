@@ -1,4 +1,8 @@
-# [GithubUserFinder] (https://github.com/geekyamitesh/GithubUserFinder) 🔥
+<div align='center'>
+    ![header image](https://github.com/geekyamitesh/GithubUserFinder/blob/main/GithubUserFinder/images/githubfinder.jpeg)
+</div>   
+
+# [GithubUserFinder](https://github.com/geekyamitesh/GithubUserFinder) 🔥
 > 
 
 
